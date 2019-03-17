@@ -28,7 +28,9 @@ target/
 *.diff
 *.patch
 *.tmp
-.gitignore
+
+#.gitignore
+*.gitignore
 
 #system ignore
 .DS_Store
