@@ -1,11 +1,11 @@
 
 
-| &nbsp;&nbsp;&nbsp;环境搭建&nbsp;&nbsp;&nbsp; | 数据表结构 | &nbsp;&nbsp;&nbsp;网络&nbsp;&nbsp;&nbsp; | 面向对象 | &nbsp;&nbsp;数据库&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp; | 系统设计 | &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; | 编码实践 |&nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |  
+| &nbsp;&nbsp;&nbsp;环境搭建&nbsp;&nbsp;&nbsp; | 数据表结构 | &nbsp;&nbsp;&nbsp;项目初始化&nbsp;&nbsp;&nbsp; | 功能模块 | &nbsp;&nbsp;云服务器部署&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp; | 展望 | &nbsp;&nbsp;&nbsp;| 
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| [:pencil2:](#pencil2-环境搭建) | [:computer:](#computer-数据表结构)|[:cloud:](#cloud-网络) | [:art:](#art-面向对象) |[:floppy_disk:](#floppy_disk-数据库)|  [:coffee:](#coffee-java)| [:bulb:](#bulb-系统设计)| [:wrench:](#wrench-工具)| [:watermelon:](#watermelon-编码实践)| 
+| [:pencil2:](#pencil2-环境搭建) | [:computer:](#computer-数据表结构)|[:cloud:](#cloud-项目初始化) | [:art:](#art-功能模块) |[:floppy_disk:](#floppy_disk-云服务器部署)|  [:coffee:](#coffee-java)| [:bulb:](#bulb-展望)|
 
 
->##大型分布式架构
+##:cloud1: :cloud2: 大型分布式架构
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
 ## :pencil2: 一、环境搭建
 > linux软件源配置</br>
