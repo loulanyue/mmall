@@ -37,22 +37,20 @@
 > Maven的POM文件讲解</br>
 > 项目包结构</br>
 > Mybatis三剑客</br>
-
-	Mybatis-generator
-	Mybatis-plugin
-	Mybatis-pagehelper
+>>Mybatis-generator
+>>Mybatis-plugin
+>>Mybatis-pagehelper
 > web.xml</br>
 > Spring容器配置文件applicationContext.xml</br>
 > SpringMVC配置文件dispatcher-servlet.xml</br>
 > FTP服务器的配置</br>
 > IDEA注入和实时编译的配置</br>
 > 工具</br>
+>>Restlet client</br>
+>>FE助手</br>
 
-	Restlet client
-	FE助手
 
-
-## :cloud: 四、功能模块
+## :art: 四、功能模块
 > 接口设计详解</br>
 > coding</br>
 > 自测验证</br>
