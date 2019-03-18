@@ -9,7 +9,7 @@
 
 ###大型分布式架构
 
-## :pencil2: 环境搭建
+## :pencil2: 一、环境搭建
 > linux软件源配置</br>
 > JDK</br>
 > Tomcat</br>
@@ -22,54 +22,66 @@
 > 环境变量</br>
 > 防火墙</br>
 
-
-
-
-
-
-## :computer: 环境搭建
+## :computer: 二、数据表结构
 > 数据表结构设计</br>
 > 数据表关系设计</br>
 > 索引</br>
 > 时间戳</br>
 
-项目初始化：
-数据库初始化
-IDEA安装
-IDE配置JDK、Maven、Tomcat、快捷键等
-maven创建web项目并验证
-Git创建仓库及初始化
-Maven的POM文件讲解
-项目包结构
-Mybatis三剑客
+## :cloud: 三、项目初始化
+> 数据库初始化</br>
+> IDEA安装</br>
+> IDE配置JDK、Maven、Tomcat、快捷键等</br>
+> maven创建web项目并验证</br>
+> Git创建仓库及初始化</br>
+> Maven的POM文件讲解</br>
+> 项目包结构</br>
+> Mybatis三剑客</br>
+
 	Mybatis-generator
 	Mybatis-plugin
 	Mybatis-pagehelper
-web.xml
-Spring容器配置文件applicationContext.xml
-SpringMVC配置文件dispatcher-servlet.xml
-Logback
-FTP服务器的配置
-IDEA注入和实时编译的配置
-工欲善其事必先利其器
+> web.xml</br>
+> Spring容器配置文件applicationContext.xml</br>
+> SpringMVC配置文件dispatcher-servlet.xml</br>
+> FTP服务器的配置</br>
+> IDEA注入和实时编译的配置</br>
+> 工具</br>
+
 	Restlet client
 	FE助手
 
-功能模块：
-接口设计详解
-手把手coding
-自测验证
 
-用户模块
-登录			用户名验证		注册
-忘记密码		提交问题答案	重置密码
-获取用户信息	更新用户信息	退出登录
+## :cloud: 四、功能模块
+> 接口设计详解</br>
+> coding</br>
+> 自测验证</br>
 
-横向越权、纵向越权安全漏洞
-MD5明文加密及增加salt值
-Guava缓存的使用
-高复用服务响应对象的设计思想及抽象封装
-Mybatis-plugin使用技巧
+
+# :cloud: 4.1 用户模块
+> 登录</br>
+> 用户名验证</br>
+> 注册</br>
+
+> 忘记密码</br>
+> 提交问题答案</br>
+> 重置密码</br>
+
+> 获取用户信息</br>
+> 更新用户信息</br>
+> 退出登录</br>					
+			
+>> 横向越权、纵向越权安全漏洞</br>
+>> MD5明文加密及增加salt值</br>
+>> Guava缓存的使用</br>
+>> 高复用服务响应对象的设计思想及抽象封装</br>
+>> Mybatis-plugin使用技巧</br>				
+
+
+
+
+
+
 
 分类管理模块
 获取节点	增加节点	修改名字
