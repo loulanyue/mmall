@@ -5,7 +5,7 @@
 | [:pencil2:](#pencil2-环境搭建) | [:computer:](#computer-数据表结构)|[:cloud:](#cloud-项目初始化) | [:art:](#art-功能模块) |[:floppy_disk:](#floppy_disk-云服务器部署)|  [:coffee:](#coffee-展望)| 
 
 
-## :cloud: mmall大型分布式架构
+## :cloud::floppy_disk: mmall大型分布式架构
 
 
 
