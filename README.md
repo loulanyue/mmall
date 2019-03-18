@@ -1,17 +1,31 @@
-大型分布式架构
+<!--| Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
+| :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
+| 环境搭建[:pencil2:](#pencil2-环境搭建) | 操作系统[:computer:](#computer-操作系统)|网络[:cloud:](#cloud-网络) | 面向对象[:art:](#art-面向对象) |数据库[:floppy_disk:](#floppy_disk-数据库)| Java [:coffee:](#coffee-java)| 系统设计[:bulb:](#bulb-系统设计)| 工具[:wrench:](#wrench-工具)| 编码实践[:watermelon:](#watermelon-编码实践)| 后记[:memo:](#memo-后记) | -->
 
-环境搭建：
-linux软件源配置
-JDK
-Tomcat
-Maven
-Vsftpd
-Nginx
-Mysql
-Git
-文件服务器
-环境变量
-防火墙
+| &nbsp;&nbsp;&nbsp;环境搭建&nbsp;&nbsp;&nbsp; | 操作系统 | &nbsp;&nbsp;&nbsp;网络&nbsp;&nbsp;&nbsp; | 面向对象 | &nbsp;&nbsp;数据库&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp; | 系统设计 | &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; | 编码实践 |&nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |  
+| :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
+| [:pencil2:](#pencil2-环境搭建) | [:computer:](#computer-操作系统)|[:cloud:](#cloud-网络) | [:art:](#art-面向对象) |[:floppy_disk:](#floppy_disk-数据库)|  [:coffee:](#coffee-java)| [:bulb:](#bulb-系统设计)| [:wrench:](#wrench-工具)| [:watermelon:](#watermelon-编码实践)| 
+
+
+## :pencil2: 环境搭建
+linux软件源配置</br>
+JDK</br>
+Tomcat</br>
+Maven</br>
+Vsftpd</br>
+Nginx</br>
+Mysql</br>
+Git</br>
+文件服务器</br>
+环境变量</br>
+防火墙</br>
+
+> [剑指 Offer 题解](剑指%20offer%20题解.md) </br>
+> [Leetcode 题解](Leetcode%20题解) </br>
+
+###大型分布式架构
+
+
 
 数据表结构设计：
 数据表结构设计
@@ -62,7 +76,8 @@ Mybatis-plugin使用技巧
 获取分类ID	递归子节点ID	 
 
 如何设计及封装无限层级的树状数据结构
-递归算法的设计思想
+递归
+的设计思想
 如何处理复杂对象排重
 重写hashcode和equals的注意事项
 
