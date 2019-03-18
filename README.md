@@ -1,12 +1,14 @@
 
 
-| &nbsp;&nbsp;&nbsp;环境搭建&nbsp;&nbsp;&nbsp; | 数据表结构 | &nbsp;&nbsp;&nbsp;项目初始化&nbsp;&nbsp;&nbsp; | 功能模块 | &nbsp;&nbsp;云服务器部署&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp; | 展望 | &nbsp;&nbsp;&nbsp;| 
+| &nbsp;&nbsp;&nbsp;环境搭建&nbsp;&nbsp;&nbsp; | 数据表结构 | &nbsp;&nbsp;&nbsp;项目初始化&nbsp;&nbsp;&nbsp; | 功能模块 | &nbsp;&nbsp;云服务器部署&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;展望&nbsp;&nbsp;&nbsp; | 
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| [:pencil2:](#pencil2-环境搭建) | [:computer:](#computer-数据表结构)|[:cloud:](#cloud-项目初始化) | [:art:](#art-功能模块) |[:floppy_disk:](#floppy_disk-云服务器部署)|  [:coffee:](#coffee-java)| [:bulb:](#bulb-展望)|
+| [:pencil2:](#pencil2-环境搭建) | [:computer:](#computer-数据表结构)|[:cloud:](#cloud-项目初始化) | [:art:](#art-功能模块) |[:floppy_disk:](#floppy_disk-云服务器部署)|  [:coffee:](#coffee-展望)| 
 
 
-##:cloud1: :cloud2: 大型分布式架构
+## :cloud: :cloud2: 大型分布式架构
+
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
+
 ## :pencil2: 一、环境搭建
 > linux软件源配置</br>
 > JDK</br>
