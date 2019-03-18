@@ -1,12 +1,8 @@
-
+## :floppy_disk::cloud: mmall大型分布式架构
 
 | &nbsp;&nbsp;&nbsp;环境搭建&nbsp;&nbsp;&nbsp; | 数据表结构 | &nbsp;&nbsp;&nbsp;项目初始化&nbsp;&nbsp;&nbsp; | 功能模块 | &nbsp;&nbsp;云服务器部署&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;展望&nbsp;&nbsp;&nbsp; | 
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:|
 | [:pencil2:](#pencil2-环境搭建) | [:computer:](#computer-数据表结构)|[:cloud:](#cloud-项目初始化) | [:art:](#art-功能模块) |[:floppy_disk:](#floppy_disk-云服务器部署)|  [:coffee:](#coffee-展望)| 
-
-
-## :cloud::floppy_disk: mmall大型分布式架构
-
 
 
 ## :pencil2: 一、环境搭建
@@ -186,7 +182,6 @@ floppy_disk
 >> POJO和VO之间的实际操练</br>
 >> mybatis批量插入</br>
 
-
 ## :coffee: 五、云服务器部署
 > 云服务器（申请、配置）</br>
 > 域名（申请、备案、配置）</br>
@@ -195,7 +190,7 @@ floppy_disk
 > 自动化发布脚本</br>
 > 线上验证</br>
 
-## :watermelon: 六、展望
+## :coffee: 六、展望
 > Tomcat集群</br>
 > Redis分布式缓存</br>
 > Spring、SpringMVC进阶</br>
