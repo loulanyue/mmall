@@ -36,8 +36,11 @@
 
 > Mybatis三剑客</br>
 >>Mybatis-generator</br>
+>>自动化生成数据库交互代码</br>
 >>Mybatis-plugin</br>
+>>IDEA的超级好用的Mybatis的插件，可以实现mybatis的接口文件和实现xml自动跳转，验证正确性，在xml中智能提示等功能</br>
 >>Mybatis-pagehelper</br>
+>>Mybatis非常好用的分页组件</br>
 
 > web.xml</br>
 > Spring容器配置文件applicationContext.xml</br>
